@@ -3,6 +3,8 @@
 A lottery-style Keno game in a single Python file, with a graphical board
 (tkinter) and a text mode.
 
+![Keno game window showing a drawn game with matches, the Bulls-Eye, and a list of tickets](docs/screenshot.png)
+
 ## Run
 
 ```sh
