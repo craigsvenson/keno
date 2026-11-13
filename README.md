@@ -37,3 +37,7 @@ All draws use `random.SystemRandom`, which reads the operating system's
 secure random source.
 
 This is a simulation for entertainment only; no real money is involved.
+
+## License
+
+MIT. See [LICENSE](LICENSE).
